@@ -70,7 +70,7 @@ void mergi_spate() //subprogram ce trimite semnal driverului pentru a da putere 
   analogWrite(MsgFata,0);
 }
 
-void Rot_Stanga() //subprgram de trimite semnal driverului pentru a da putere rotirii in fata a motorului din partea dreapta si in spate a motorului din partea stanga
+void Rot_Stanga() //subprogram de trimite semnal driverului pentru a da putere rotirii in fata a motorului din partea dreapta si in spate a motorului din partea stanga
 {
   analogWrite(MsgSpa,  puterea_rotirii);
   analogWrite(MsgFata,0);
@@ -80,7 +80,7 @@ void Rot_Stanga() //subprgram de trimite semnal driverului pentru a da putere ro
   return ;
 }
 
-void Rot_Dreapta() //subprgram de trimite semnal driverului pentru a da putere rotirii in spate a motorului din partea dreapta si in fata a motorului din partea stanga
+void Rot_Dreapta() //subprogram de trimite semnal driverului pentru a da putere rotirii in spate a motorului din partea dreapta si in fata a motorului din partea stanga
 {
   analogWrite(MsgSpa, 0);
   analogWrite(MdrFata,0);
