@@ -1,4 +1,7 @@
 ﻿# Roboti-Micro-Sumo
+ 
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/25kcRJWkUBg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+ 
 		Capitolul I. Utilitate practică
 
 •	Cei doi roboți sunt roboți micro-sumo. Aceștia se luptă într-un ring circular cu suprafața de culoare neagră, iar pe marginea ringului se află o bandă albă.
